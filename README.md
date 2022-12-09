@@ -1,0 +1,1 @@
+# algokit-init-testing-template
